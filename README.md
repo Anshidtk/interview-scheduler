@@ -17,3 +17,18 @@
     10.1. Create Users
 11. Login as 'Interviewer' or 'Candidate' and mark Availability
 12. Check Available Time for Interview in HR profile using the Id of 'Interviewer' and 'Candidate'.
+
+
+
+NOTE:
+I have attached the DB that I used. You can use it or you can delete the db.sqlite3 and run makemigrations and migrate to create new DB.
+
+credentials of my DB
+
+superuser :
+username: admin
+password: admin@123
+
+HR :
+username: anshid
+password: admin@123
