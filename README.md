@@ -1,5 +1,7 @@
 # interview-scheduler
 
+# Python 3
+
 1. Create an environment and activate it
 2. Clone the project
 3. Checkout to master branch
