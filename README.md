@@ -9,9 +9,9 @@
 7. python manage.py createsuperuser
 8. python manage.py runserver
 9. Login to django-admin as superuser
-  9.1. Create Roles ('HR','Interviewer','Candidate')
-  9.2. Create a Profile for HR
+    9.1. Create Roles ('HR','Interviewer','Candidate')
+    9.2. Create a Profile for HR
 10. Login as HR
-  10.1. Create Users
+    10.1. Create Users
 11. Login as 'Interviewer' or 'Candidate' and mark Availability
 12. Check Available Time for Interview in HR profile.
