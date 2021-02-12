@@ -14,4 +14,4 @@
 10. Login as HR
     10.1. Create Users
 11. Login as 'Interviewer' or 'Candidate' and mark Availability
-12. Check Available Time for Interview in HR profile.
+12. Check Available Time for Interview in HR profile using the Id of 'Interviewer' and 'Candidate'.
